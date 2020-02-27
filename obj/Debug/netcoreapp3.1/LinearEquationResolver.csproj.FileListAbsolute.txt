@@ -1,0 +1,11 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/bin/Debug/netcoreapp3.1/LinearEquationResolver
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/bin/Debug/netcoreapp3.1/LinearEquationResolver.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/bin/Debug/netcoreapp3.1/LinearEquationResolver.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/bin/Debug/netcoreapp3.1/LinearEquationResolver.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/bin/Debug/netcoreapp3.1/LinearEquationResolver.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/bin/Debug/netcoreapp3.1/LinearEquationResolver.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/obj/Debug/netcoreapp3.1/LinearEquationResolver.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/obj/Debug/netcoreapp3.1/LinearEquationResolver.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/obj/Debug/netcoreapp3.1/LinearEquationResolver.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/obj/Debug/netcoreapp3.1/LinearEquationResolver.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LinearEquationResolver/obj/Debug/netcoreapp3.1/LinearEquationResolver.pdb
